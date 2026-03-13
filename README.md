@@ -8,7 +8,8 @@
 
 | 文件 | 说明 |
 |------|------|
-| [solana_smart_contract_guide.md](./solana_smart_contract_guide.md) | Solana 智能合约开发完全指南 |
+| [solana_smart_contract_guide.md](./solana_smart_contract_guide.md) | Solana 智能合约开发完全指南（入门 → 进阶） |
+| [solana_senior_engineer_guide.md](./solana_senior_engineer_guide.md) | Solana 智能合约高级工程师指南（底层机制 / 安全 / 架构设计） |
 
 ---
 
